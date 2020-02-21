@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986462450711",
+    "firebase_url": "https://easy-life-66c37.firebaseio.com",
+    "project_id": "easy-life-66c37",
+    "storage_bucket": "easy-life-66c37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986462450711:android:36d52940f0ce5a5b389852",
+        "android_client_info": {
+          "package_name": "com.example.easy_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986462450711-p4sm3vslvcpe33kt6jaucvv0tia3lorj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaLrNCTUZgd2Ypv4NPNlKOaJzDonpfp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986462450711-p4sm3vslvcpe33kt6jaucvv0tia3lorj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
